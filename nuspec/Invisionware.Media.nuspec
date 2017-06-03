@@ -19,28 +19,27 @@
 	</metadata>
 	<files>
 		<!-- Framework: PCL -->
-		<file src="..\src\Invisionware.Media\bin\$Configuration$\Invisionware.Media.dll" target="lib\portable-net45+win8+wpa81+wp8+MonoAndroid10+xamarinios10+MonoTouch10" />
-		<file src="..\src\Invisionware.Media\bin\$Configuration$\Invisionware.Media.pdb" target="lib\portable-net45+win8+wpa81+wp8+MonoAndroid10+xamarinios10+MonoTouch10" />
+		<file src="..\src\Invisionware.Media\bin\$Configuration$\netstandard1.0\Invisionware.Media.dll" target="lib\portable-net45+win8+wpa81+wp8+MonoAndroid10+xamarinios10+MonoTouch10" />
+		<file src="..\src\Invisionware.Media\bin\$Configuration$\netstandard1.0\Invisionware.Media.pdb" target="lib\portable-net45+win8+wpa81+wp8+MonoAndroid10+xamarinios10+MonoTouch10" />
 		
 		<!-- Framework: NetStandard1.0 -->
-		<file src="..\src\Invisionware.Media\bin\$Configuration$\Invisionware.Media.dll" target="lib\netstandard1.0" />
-		<file src="..\src\Invisionware.Media\bin\$Configuration$\Invisionware.Media.pdb" target="lib\netstandard1.0" />
+		<file src="..\src\Invisionware.Media\bin\$Configuration$\netstandard1.0\Invisionware.Media.dll" target="lib\netstandard1.0" />
+		<file src="..\src\Invisionware.Media\bin\$Configuration$\netstandard1.0\Invisionware.Media.pdb" target="lib\netstandard1.0" />
 		
 		<!-- Framework: Android -->
-		<file src="..\src\Invisionware.Media\bin\$Configuration$\Invisionware.Media.dll" target="lib\MonoAndroid10" />
-		<file src="..\src\Invisionware.Media\bin\$Configuration$\Invisionware.Media.pdb" target="lib\MonoAndroid10" />
+		<file src="..\src\Invisionware.Media.Droid\bin\$Configuration$\Invisionware.Media.dll" target="lib\MonoAndroid10" />
+		<file src="..\src\Invisionware.Media.Droid\bin\$Configuration$\Invisionware.Media.pdb" target="lib\MonoAndroid10" />
 		<file src="..\src\Invisionware.Media.Droid\bin\$Configuration$\Invisionware.Media.Droid.dll" target="lib\MonoAndroid10" />
 		<file src="..\src\Invisionware.Media.Droid\bin\$Configuration$\Invisionware.Media.Droid.pdb" target="lib\MonoAndroid10" />
 		
 		<!-- Framework: iOS  -->
-		<file src="..\src\Invisionware.Media\bin\$Configuration$\Invisionware.Media.dll" target="lib\MonoTouch10" />
-		<file src="..\src\Invisionware.Media\bin\$Configuration$\Invisionware.Media.pdb" target="lib\MonoTouch10" />
+		<file src="..\src\Invisionware.Media.iOS\bin\$Configuration$\Invisionware.Media.dll" target="lib\MonoTouch10" />
 		<file src="..\src\Invisionware.Media.iOS\bin\$Configuration$\Invisionware.Media.iOS.dll" target="lib\MonoTouch10" />
 		<!-- file src="..\src\Invisionware.Media.iOS\bin\$Configuration$\Invisionware.Media.iOS.pdb" target="lib\MonoTouch10" -->
 		
 		<!-- Framework: .NET 4.5 -->
-		<file src="..\src\Invisionware.Media\bin\$Configuration$\Invisionware.Media.dll" target="lib\net45" />
-		<file src="..\src\Invisionware.Media\bin\$Configuration$\Invisionware.Media.pdb" target="lib\net45" />
+		<file src="..\src\Invisionware.Media.Net45\bin\$Configuration$\Invisionware.Media.dll" target="lib\net45" />
+		<file src="..\src\Invisionware.Media.Net45\bin\$Configuration$\Invisionware.Media.pdb" target="lib\net45" />
 		<file src="..\src\Invisionware.Media.Net45\bin\$Configuration$\Invisionware.Media.Net45.dll" target="lib\net45" />
 		<file src="..\src\Invisionware.Media.Net45\bin\$Configuration$\Invisionware.Media.Net45.pdb" target="lib\net45" />
 		
