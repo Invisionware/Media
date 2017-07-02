@@ -4,7 +4,14 @@ Invisionware Frmaework is a collection of utilities classes, extension methods, 
 ## Media
 This portion of the Invisionware Framework is focused on Media enhancements within the .NET frmaework
 
-Add the following using statement
+[![NuGet](https://img.shields.io/nuget/v/Invisionware.Media.svg)](https://www.nuget.org/packages/Invisionware.Media)
+
+Packages related to Invisionware Media
+```powershell
+Install-Package Invisionware.Media
+```
+
+Then just add the following using statement
 ```c#
 using Invisionware.Media;
 ```
