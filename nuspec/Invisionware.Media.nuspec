@@ -6,17 +6,18 @@
 		<title>Invisionware.Media</title>
 		<authors>Invisionware</authors>
 		<owners>Invisionware</owners>
+		<projectUrl>https://github.com/Invisionware/Invisionware.Media</projectUrl>
+		<licenseUrl>https://raw.githubusercontent.com/Invisionware/Invisionware.Media/master/LICENSE</licenseUrl>
+		<iconUrl>https://github.com/Invisionware/Invisionware.Media/raw/master/logo.png</iconUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<description>Media</description>
 		<summary>Media</summary>
-		<projectUrl>https://github.com/Invisionware/Media</projectUrl>
-		<licenseUrl>https://raw.githubusercontent.com/Invisionware/Media/master/LICENSE</licenseUrl>
-		<iconUrl>https://github.com/Invisionware/Media/raw/master/logo.png</iconUrl>
 		<releaseNotes></releaseNotes>
 		<copyright>Copyright © 2018 Invisionware</copyright>
 		<language>en-US</language>
 		<tags>invisionware media</tags>
 		<dependencies>
+			<dependency id="Invisionware.Core" version="1.0.0" />
 			<dependency id="Serilog" version="2.2.1" />
 		</dependencies>
 	</metadata>
